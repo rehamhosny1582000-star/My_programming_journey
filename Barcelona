@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+<h1>More Than A Club</h1>
+<h2>Fc Barcelona, or Barca, is a Spanish football club founded in 1899 by Joan Gamper. Known for its iconic blue and claret jerseys and motto "Més que un Club" (more than a club).</h2>
+</head>
+<body>
+<h3>Key Aspects</h3>
+<h4>Founded in 1899:</h4>
+<p>The club was established by Swiss businessman Joan Gamper after he advertised for players in a local magazine. </p>
+<h4>"Més que un club":</h4>
+<p>The motto, meaning"more than a club" heilights Barcelona's deep connection to Catalan culture and identity</p>
+<h4>Fan-owned:</h4>
+<p>Unlike many other clubs,FC Barcelona is owned and operated by its supporters</p>
+<h4>La Masia:</h4>
+<p>The club's acclaimed football academy has a strong tradition of developing talanted players</p>
+<h4>Iconic Colors:</h4>
+<p>The team's distinctive blue and claret(or burgundy) jerseys were chosen by early club members</p>
+<h4>Stadium:</h4>
+<p>The club plays its home matches at the Spotify Camp Nou,one of the largest stadiums in Europe</p>
+<button><a href="https://www.instagram.com/fcbarcelona/">Barcelona</a></button>
+<img src="https://share.google/rWnMahASQOIkTr0F6" height="100"width="100">
+</body>
+</html>
